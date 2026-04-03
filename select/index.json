@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ヘルシーエンド",
+  "base_artist": "siinamota",
+  "createdAt": "2026-04-03T06:00:51.161368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヘルシーエンド",
+      "artist": "椎名もた",
+      "has_synced": true,
+      "path": "select/01_ヘルシーエンド_椎名もた.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヘルシーエンド",
+      "artist": "Siinamota",
+      "has_synced": true,
+      "path": "select/02_ヘルシーエンド_Siinamota.lrc"
+    }
+  ]
+}
